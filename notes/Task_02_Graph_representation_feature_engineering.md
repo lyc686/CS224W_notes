@@ -24,6 +24,10 @@ CS224W的课程目录：
 
 往期笔记回顾：[CS224W笔记](https://github.com/lyc686/CS224W_notes/tree/main/notes)
 
+
+
+## Task_02、图的基本表示和特征工程
+
 ## 一、图的基本表示
 
 * 图的本体设计

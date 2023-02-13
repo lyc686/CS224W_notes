@@ -24,6 +24,8 @@ CS224W的课程目录：
 
 往期笔记回顾：[CS224W笔记](https://github.com/lyc686/CS224W_notes/tree/main/notes)
 
+## Task_01、图机器学习导论
+
 ## 图相关必读论文
 
 **知识储备**（如果有的话接下来的学习会事半功倍）：
