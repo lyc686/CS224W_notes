@@ -961,6 +961,8 @@ pc.set_array(edge_colors)
 plt.colorbar(pc)
 
 ax = plt.gca()
+ax.add_collection(pc)
+plt.colorbar(pc)
 ax.set_axis_off()
 plt.show()
 ```
@@ -1310,7 +1312,7 @@ plt.show()
 
 ### 1.PageRank节点重要度
 
-在NetworkX中，计算**有向图**节点的PageRank节点重要度。在NetworkX中直接调包执行就可以完成PageRank的计算。
+在NetworkX中，计算**有向图**节点的PageRank节点重要度。在NetworkX中直接调包执行就可以完成PageRank的计算。PageRank可以把图中的节点映射维一个**一维的标量**用于表示该节点的重要度
 
 ```python
 # 图数据挖掘
