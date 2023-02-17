@@ -24,4 +24,4 @@ CS224W公开课：[双语字幕 斯坦福CS224W《图机器学习》课程(2021)
 
 **CS224w课程目录：**
 
-<img src="./images/image-20230214121320067.png" alt="image-20230214121320067" style="zoom:80%;margin-left:0px;" />
+<img src="./images/image-20230203160639363.png" alt="image-20230214121320067" style="zoom:80%;margin-left:0px;" />
